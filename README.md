@@ -62,7 +62,7 @@ The basic HTML markup for the search form is as follows:
 </div>  
 ```
 
-The class "inner" is hidden until activated.
+The class "ct-sidenav" is hidden until activated.
 
 ## CSS
 
