@@ -13,7 +13,7 @@ Check out a working example on [JSFiddle](https://jsfiddle.net/solodev/xyypctoz/
 
 ## HTML
 
-The basic HTML markup for the search form is as follows:
+The basic HTML markup for the navigation is as follows:
 ```
 <div class="ct-sidenav">
 	<button class="close">x</button><img alt="Logo" class="ct-sidenav-logo" src="images/logo.png">
@@ -90,7 +90,7 @@ The JavaScript details several onclick events which either add or remove css cla
 
 ## External Includes
 
-The slider includes the following third-party resources:
+The side navigation tutorial includes the following third-party resources:
 ```
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 	
