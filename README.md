@@ -1,6 +1,3 @@
-# side-navigation-popout
-Solodev's expandable side navigation, also known as a Hamburger Menu, adds a unique design aesthetic while preparing your site for the need for responsive solutions.
-
 # Side Navigation Popout
 
 [Solodev's](https://www.solodev.com/) expandable side navigation, also known as a Hamburger Menu, adds a unique design aesthetic while preparing your site for the need for responsive solutions. Contained in this repository is all of the HTML, CSS, and JavaScript you'll need to get a side navigation up and running within minutes.
